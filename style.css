@@ -48,6 +48,34 @@
     color: var(--verde-if);
 }
 
+h1{
+  font-family: Georgia, serif;
+   text-align: center;
+  font-size: 60px;
+  color: 	#005700;
+}
+
+h2{
+  font-family: Georgia, serif;
+   text-align: left;
+  font-size: 40px;
+  color: 	#546732;
+}
+
+h3{
+  font-family: Georgia, serif;
+   text-align: left;
+  font-size: 30px;
+  color: 	#49794f;
+}
+
+p{
+  text-align: justify;
+  font-family: Times, Times New Roman, serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
 .main-raised {
     text-align: center;
     border-radius: 6px;
