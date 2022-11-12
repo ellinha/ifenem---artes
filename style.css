@@ -47,34 +47,42 @@
     font-size: 32px;
     color: var(--verde-if);
 }
-/*
-h1{
+
+.titulo-teoria{
   font-family: Georgia, serif;
    text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   color: 	#005700;
 }
 
-h2{
-  font-family: Georgia, serif;
-   text-align: left;
-  font-size: 40px;
-  color: 	#546732;
-}
-
-h3{
+.subtitulo-teoria{
   font-family: Georgia, serif;
    text-align: left;
   font-size: 30px;
+  color: 	#546732;
+}
+
+.sub-subtitulo-teoria{
+  font-family: Georgia, serif;
+   text-align: left;
+  font-size: 22px;
   color: 	#49794f;
 }
 
-p{
+.paragrafo-teoria{
   text-align: justify;
   font-family: Times, Times New Roman, serif;
-  font-size: 20px;
-  letter-spacing: 1px;
-}*/
+  font-size: 17px;
+  letter-spacing: 0.7px;
+}
+
+.image-teoria {
+  text-align: center;
+}
+
+.imagem-borda-teoria{
+  border-radius: 10px;
+}
 
 .main-raised {
     text-align: center;
