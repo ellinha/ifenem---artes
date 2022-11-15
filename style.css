@@ -798,6 +798,10 @@ footer p {
     margin: 0;
 }
 
+ul.a {
+  list-style-type: circle;
+}
+
 .main-simulado {
     width: 85%;
     display: flex;
